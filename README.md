@@ -9,6 +9,6 @@ The Project consists of an HTML Interface, CSS Stylesheet, and a Script with 5 F
   <li><b>show: </b>It's role is to Display the Current TO-DO list stored inside the DOM then display items along with associated Remove Buttons.</li>
  </ul>
  <br>
- The Code implementation can be found on CodePen.io [https://codepen.io/abbbas_alhashimi/pen/VwpRJrZ]<br>
-Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/] <br>
+ The Code implementation can be found on CodePen.io [https://codepen.io/abbbas_alhashimi/pen/VwpRJrZ]
+Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/]
 Kind regards
