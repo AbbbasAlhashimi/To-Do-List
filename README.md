@@ -10,5 +10,5 @@ The Project consists of an HTML Interface, CSS Stylesheet, and a Script with 5 F
  </ul>
  <br>
  The Code implementation can be found on CodePen.io [https://codepen.io/abbbas_alhashimi/pen/VwpRJrZ]<br>
-Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/]
+Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/] <br>
 Kind regards
